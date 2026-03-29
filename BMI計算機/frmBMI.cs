@@ -92,9 +92,22 @@ namespace BMI計算機
             colorResult = colorList[resultIndex];
             lblResult.Text = $"{bmi:F2} ({strResult})";
             lblResult.BackColor = colorResult;
-
+            // 如果是深色背景，字體改白色
+            if (resultIndex >= 4 || resultIndex <= 1) lblResult.ForeColor = Color.White;
+            else lblResult.ForeColor = Color.Black;
         }
 
+        private void btnClear_Click(object sender, EventArgs e)
+        {
+            lblResult.Text = string.Empty;
+            lblResult.BackColor = Color.White;
+            txtHeight.Text = string.Empty;
+            txtWeight.Text = string.Empty;
+        }
 
+        private void btnExit_Click(object sender, EventArgs e)
+        {
+            Application.Exit();
+        }
     }
 }
