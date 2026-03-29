@@ -12,7 +12,14 @@
     * 根據計算結果自動變更背景色，並優化深色背景下的字體對比度。
 
 ## 執行截圖
-<img width="1902" height="1000" alt="image" src="https://github.com/user-attachments/assets/21f668ab-3d48-450f-9d71-332837d99353" />
+<img width="343" height="257" alt="image" src="https://github.com/user-attachments/assets/8cf8b95f-5c84-497e-85a4-7d46b1e6f8e8" />
+<img width="342" height="258" alt="image" src="https://github.com/user-attachments/assets/04a026fa-8635-4e38-b994-39e8bbb00cb9" />
+<img width="339" height="257" alt="image" src="https://github.com/user-attachments/assets/c4cea174-cf69-4ec5-a9dc-e5c7c705c832" />
+<img width="348" height="261" alt="image" src="https://github.com/user-attachments/assets/167755a0-7ba2-47a3-a68d-e1c3f236bbbd" />
+<img width="343" height="259" alt="image" src="https://github.com/user-attachments/assets/c14a55f4-18c4-49d0-8550-b4a7e9807a5f" />
+<img width="344" height="258" alt="image" src="https://github.com/user-attachments/assets/185536c6-9b41-4c0f-a027-915592772773" />
+
+
 
 
 ## 開發環境
