@@ -1,0 +1,15 @@
+﻿# Visual Studio 暫存與設定檔 [cite: 548]
+.vs/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+
+# 編譯產出的執行檔與物件檔 [cite: 546, 547]
+[Bb]in/
+[Oo]bj/
+
+# 其他不需要上傳的檔案
+*.user
+*.suo
+*.cache
